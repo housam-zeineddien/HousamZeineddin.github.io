@@ -1,0 +1,4 @@
+baseURL = 'http://HousamZeineddin.github.io/'
+languageCode = 'en-us'
+title = 'Cloud Computing Lab-4 hugo site'
+theme = "tale"
